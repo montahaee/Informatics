@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Montahaee/Documents/mypc/proj/wrk/IHK/exam/2021-11-19/SWE/Informatics/src/SS2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Montahaee/Documents/mypc/proj/wrk/IHK/exam/2021-11-19/SWE/Informatics/src/SS2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Montahaee/Documents/mypc/proj/wrk/IHK/exam/2021-11-19/SWE/Informatics/src/SS2022/cmake-build-debug/CMakeFiles/SS2022.dir

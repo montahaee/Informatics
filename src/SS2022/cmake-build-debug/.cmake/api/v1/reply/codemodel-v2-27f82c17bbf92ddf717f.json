@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SS2022",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SS2022::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SS2022-Debug-b9b2d8ac463dbafd7e20.json",
+					"name" : "SS2022",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/Montahaee/Documents/mypc/proj/wrk/IHK/exam/2021-11-19/SWE/Informatics/src/SS2022/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/Montahaee/Documents/mypc/proj/wrk/IHK/exam/2021-11-19/SWE/Informatics/src/SS2022"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GrossProg/CRS/CRS.iml" filepath="$PROJECT_DIR$/GrossProg/CRS/CRS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrossProg/Cartography/Cartography.iml" filepath="$PROJECT_DIR$/GrossProg/Cartography/Cartography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrossProg/CuttingInstruction/CuttingInstruction.iml" filepath="$PROJECT_DIR$/GrossProg/CuttingInstruction/CuttingInstruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrossProg/GrossProg.iml" filepath="$PROJECT_DIR$/GrossProg/GrossProg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Informatics.iml" filepath="$PROJECT_DIR$/Informatics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrossProg/RNG/RNG.iml" filepath="$PROJECT_DIR$/GrossProg/RNG/RNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kleinProg/kleinProg.iml" filepath="$PROJECT_DIR$/kleinProg/kleinProg.iml" />
+    </modules>
+  </component>
+</project>
